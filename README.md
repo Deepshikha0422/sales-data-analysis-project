@@ -17,7 +17,7 @@ This project analyzes sales data to find useful business insights using Python.
 - Data Visualization
 - Finding Business Insights
 
-## Project File
+## Project Files
 - Sales_Data_Analysis.ipynb - Complete analysis notebook
 
 ## Insights
